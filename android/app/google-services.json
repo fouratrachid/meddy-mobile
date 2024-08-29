@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "136111862564",
+    "firebase_url": "https://meddyai-default-rtdb.firebaseio.com",
+    "project_id": "meddyai",
+    "storage_bucket": "meddyai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136111862564:android:dac71c41cd12e331b739b1",
+        "android_client_info": {
+          "package_name": "com.trymeddy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136111862564-17lb80tet982og5uso1n9qged8de37g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trymeddy.app",
+            "certificate_hash": "dd481d45af840202ae1b43cbe35e57c591131283"
+          }
+        },
+        {
+          "client_id": "136111862564-1q51bg4o2ij6v8ovufcalrhbn4t9ose5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trymeddy.app",
+            "certificate_hash": "7bb2c6650c46a27e1ad6c36b98378ae59e246313"
+          }
+        },
+        {
+          "client_id": "136111862564-giubj6sum96gq1ia26c8jqk416oi2jf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trymeddy.app",
+            "certificate_hash": "d0a792b50b53b4de0d0282485367abf8a05b1935"
+          }
+        },
+        {
+          "client_id": "136111862564-ki1lbr0vorvak2108vstbme2om8mkdrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trymeddy.app",
+            "certificate_hash": "fc5ceb09b44e51dba7b1c671445e9820fd1859e8"
+          }
+        },
+        {
+          "client_id": "136111862564-u0anpbd6voife3pl7vno9lgnfd5t9kqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzHlskoNWeviQlC1uTtUfPR3JYaZeK88c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136111862564-u0anpbd6voife3pl7vno9lgnfd5t9kqe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136111862564-gf9qavgl7mei8ula5t4oj1efgc2vbkub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meddymobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
